@@ -1,5 +1,6 @@
 # M1D1
 M1D1 consegna
+
 Uso e comunico tutti i giorni, in svariate situazioni della mia giornata, dati personali: quelli che permettono l’identificazione diretta (nome, cognome, immagini…), identificazione indiretta (codice fiscale...), dati che consentono la geolocalizzazione, che comunicano le mie abitudini, relazioni personali etc.…
 Al mattino la prima cosa che faccio è controllare whatsapp, la posta elettronica, il sito della mia banca e mi connetto ai vari social.
 In seguito, mi dirigo a lavoro e per monitorare il traffico utilizzo applicazioni come Google Maps o Waze. 
